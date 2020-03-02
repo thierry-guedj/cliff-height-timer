@@ -16,11 +16,6 @@ const routes = [
     name: 'About',
     component: About
   }
-  {
-    path: '/history',
-    name: 'History',
-    component: History
-  }
 ]
 
 const router = new VueRouter({
